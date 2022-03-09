@@ -1,6 +1,6 @@
 # Password Generator Starter Code
 
-    After reading the acceptance criteria I started by getting together a rough game 
+After reading the acceptance criteria I started by getting together a rough game 
 plan of how to approach the task. I first determined how best to get the length of the 
 password which was simple enough to accomplish and validate inputs.
 
